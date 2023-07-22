@@ -1,6 +1,12 @@
 # car-management-software-Arabic
 
 
+![Screenshot 2023-07-22 013635](https://github.com/khanfar/car-management-software-Arabic/assets/16803586/743f3981-6dd7-4970-99fe-b4bc271d06aa)
+
+![Screenshot 2023-07-22 013817](https://github.com/khanfar/car-management-software-Arabic/assets/16803586/720e05c6-6930-4769-a744-7794bce86830)
+
+
+
 This is a Python script for a truck management system. It uses SQLite for data storage and pandas for data manipulation and export. The script is designed to manage trucks and their maintenance records. Here's a breakdown of the main functionalities:
 
 1. **Time Adjustment**: The `get_adjusted_time` function adjusts the current time based on a specified offset.
